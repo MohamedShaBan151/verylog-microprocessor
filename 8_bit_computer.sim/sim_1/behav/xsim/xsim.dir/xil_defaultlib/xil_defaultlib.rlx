@@ -1,0 +1,20 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/ALU.v,1715049743,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/AR.v,,ALU,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/AR.v,1715052450,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Accumulator.v,,AR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Accumulator.v,1715050811,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/CommonBus.v,,Accumulator,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/CommonBus.v,1715050093,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Computer.v,,CommonBus,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Computer.v,1715059189,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/DR.v,,Computer,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Computer_tp.v,1715078695,verilog,,,,Computer_tp,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/DR.v,1715050704,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/INPR.v,,DR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/INPR.v,1715053100,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Instruction_Register.v,,INPR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Instruction_Register.v,1715051846,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Interrupt.v,,Instruction_Register,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Interrupt.v,1715085477,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/OUTPR.v,,Interrupt,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/OUTPR.v,1715053357,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/PC.v,,OUTPR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/PC.v,1715058996,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/RAM.v,,PC,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/RAM.v,1715079976,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Secounce_Counter.v,,RAM,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Secounce_Counter.v,1715081030,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/TR.v,,Secounce_Counter,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/TR.v,1715052783,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Kasas/VERILOG/8_bit_computer/8_bit_computer.srcs/sources_1/new/Computer_tp.v,,TR,,,,,,,,
